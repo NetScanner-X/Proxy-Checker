@@ -83,11 +83,39 @@ Select your preferred language to access the complete installation guide, usage 
 
 <div align="center">
 
+## 💬 Contact & Support | ارتباط و پشتیبانی
+
+Have a question, found a bug, or have an idea to improve the project?
+
+سؤال، مشکل، باگ یا پیشنهادی برای بهترشدن ابزار دارید؟
+
+Feel free to contact us on Telegram.
+
+برای ارتباط و ارسال نظر یا گزارش مشکل، از طریق تلگرام پیام دهید.
+
+<br>
+
+[![Telegram Support](https://img.shields.io/badge/Telegram-@Hunter23__S-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hunter23_S)
+
+<br>
+
+Questions • Bug Reports • Feedback • Suggestions
+
+سؤال • گزارش مشکل • انتقاد • پیشنهاد
+
+</div>
+
+---
+
+<div align="center">
+
 ## ⭐ Support the Project | حمایت از پروژه
 
 If this project is useful to you, please give it a Star and share it with others.
 
 اگر این ابزار برای شما مفید بود، لطفاً به پروژه Star بدهید و آن را با دیگران به اشتراک بگذارید.
+
+<br>
 
 [![GitHub Stars](https://img.shields.io/github/stars/NetScanner-X/Proxy-Checker?style=for-the-badge&logo=github)](https://github.com/NetScanner-X/Proxy-Checker)
 
